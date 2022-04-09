@@ -1,7 +1,7 @@
 # Account Microservice
 
 server:
-  port: ${APP_PORT}
+  port: 8072
 
 spring:
   application:
